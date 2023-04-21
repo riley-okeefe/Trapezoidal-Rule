@@ -1,4 +1,4 @@
-# Trapezoidal-Rule
+# Trapezoidal Rule
 
 ## Overview
 This C program uses the Trapezoidal Rule to approximate the integral of a given function.

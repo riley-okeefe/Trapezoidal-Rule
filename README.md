@@ -1,7 +1,7 @@
 # Trapezoidal Rule
 
 ## Overview
-Trapezoidal Rule is a C command-line program designed as part of a school project on inter-process communication in Operating Systems.
+Trapezoidal Rule is a C command-line program designed as part of a school project on inter-process communication in Operating Systems, the course was taken at Saint Mary's University and taught by Dr. Jiju Poovvancheri.
 
 ## Description
 Through the use of inter-process communication and more specifically parent to multi-child communication, this program approximates the integral of a given function. The program makes use of system calls such as fork()/pipe() to create the children and to communicate from parent to child and vice versa. 
